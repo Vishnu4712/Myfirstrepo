@@ -1,2 +1,3 @@
 # Myfirstrepo
-This is my first repository
+Hey Guys!
+This is my first repository.
